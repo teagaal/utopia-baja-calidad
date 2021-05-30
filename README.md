@@ -13,5 +13,6 @@ Para intervenir las imágenes vistas en el sitio, usamos las siguientes herramie
 - [Bye Byte](https://github.com/wayspurrchen/byebyte), para _datamoshear_ el video de la clase con Leonardo Solaas.
 - [Meme Deep Fryer](https://deepfriedmemes.com/), para modificar memes.
 - [Bit Vision](http://landonbrand.github.io/Bit-Vision/#), para aplicar la técnica de _pixel sorting_ a la imagen del data center.
+- [More JPEG](https://morejpeg.com/), para introducir artefactos de compresión en las obras de Van Gogh.
 
 Para el shader de la TV Rota pasé y modifiqué el shader de código abierto [Bad TV Shader](https://github.com/felixturner/bad-tv-shader) de Felix Turner a P5.js. Este usa la técnica de [Ashima Noise](https://github.com/ashima/webgl-noise) para generar las distorsiones.
