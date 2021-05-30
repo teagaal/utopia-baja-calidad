@@ -239,6 +239,11 @@ a {
   background-color: black;
 }
 
+.popup {
+  display: flex;
+  justify-content: center;
+}
+
 .hidden {
   display: none;
 }
